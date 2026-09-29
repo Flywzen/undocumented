@@ -51,7 +51,7 @@ export default function SyllabusStage() {
       <div className="mx-auto max-w-[1440px] px-5 py-16 lg:px-16 lg:py-24">
         <div className="grid gap-14 lg:grid-cols-[.75fr_1.25fr]">
           <div>
-            <p className="section-label">{stage.label}</p>
+            <p className="section-label">{stage.label}</p><p className="mt-2 font-mono text-[12px] font-semibold text-signal">Level Bloom: {stage.bloom}</p>
             <h1 className="mt-5 max-w-xl font-display text-6xl leading-[.9] tracking-[-.05em]">{stage.title}</h1>
             <p className="mt-7 max-w-lg text-lg leading-8 text-graphite">{stage.promise}</p>
             <div className="mt-10 border-t border-ink/15 pt-5"><span className="font-mono text-[10px] uppercase tracking-wider text-graphite">Perkiraan waktu</span><p className="mt-2 font-display text-3xl">{stage.duration}</p></div>

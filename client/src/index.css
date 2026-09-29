@@ -249,3 +249,5 @@
 .language-toggle { border-color:rgba(243,240,232,.6); }
 .card-note, .case-tabs { border-top-color:var(--box-border); }
 .concept-card:hover, .syllabus-card:hover, .real-world-preview:hover, .related-case-card:hover, .related-case-card:focus-visible { border-color:var(--signal); }
+
+.bloom-tag { display:inline-block; margin-left:6px; padding:1px 6px; border:1px solid var(--signal); font-family:"IBM Plex Mono",monospace; font-size:10px; font-weight:600; line-height:1.5; color:var(--ink); background:var(--box-bg); vertical-align:middle; }
