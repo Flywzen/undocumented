@@ -2,9 +2,9 @@
 
 Delegate the task, not the judgment.
 
-Undocumented adalah kurikulum software engineering untuk developer baru dan vibe coder. AI menulis kodenya, dan kamu memutuskan apakah kode itu aman dirilis. Situs ini melatih keputusan kedua.
+Undocumented mengajarkan cara menjadi developer yang kuat bersama AI. AI menulis kodenya. Kamu memahami sistemnya, memverifikasi hasilnya, dan memutuskan apakah kode itu aman dirilis. Situs ini melatih ketiganya.
 
-Isinya 214 konsep dalam 25 chapter. Tiap konsep punya ringkasan, contoh, studi kasus, dan kuis. Beberapa punya contoh kode yang bisa kamu jalankan dan kasus perusahaan nyata.
+Isinya 215 konsep dalam 25 chapter. Konsepnya membentuk huruf T: 25 chapter memberi keluasan, dan 30 konsep inti punya pembahasan mendalam. Tiap konsep punya ringkasan, contoh, studi kasus, dan kuis. Beberapa punya contoh kode yang bisa kamu jalankan dan kasus perusahaan nyata.
 
 ## Menjalankan
 
